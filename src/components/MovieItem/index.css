@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.action_popup_modal_con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.comedy_popup_modal_con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
